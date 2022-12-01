@@ -1,10 +1,16 @@
-Chrome Extension to show the latest data on covid of UK
-=======
-![covid_report](https://user-images.githubusercontent.com/11813341/152206544-8e629f40-bf26-4623-8a75-9621183fd0b5.gif)
+as long as extension is, it will:
 
-# Tools used #
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+    Minimum Viable Product
+    - types random amount of key strokes at random time interval
+    - moves mouse randomly at random time interval for random distance
 
+    Strech - Pre-req
+    - Button to toggle between productivity & prank modes
 
-Author [Sampurna Chapagain](https://twitter.com/saam_codes)
+    Strech - Productivity
+    - types random coding related phrases at random time intervals that will appear
+
+    Stretch - Prank
+    - remaps space bar to delete key
+    - types specified name at random intervals
+    - plays sound at random intervals

@@ -1,11 +1,14 @@
 {
-    "name": "Covid-19 Stats UK",
-    "version": "1.0.0",
-    "description": "latest covid data of UK",
-    "manifest_version": 3,
-    "author": "Sampurna Chapagain",
-    "action":{
-        "default_popup": "index.html",
-        "default_title": "Latest Covid Report"
-    }
+  "name": "Hardly Wokring Hard",
+  "version": "1.0.0",
+  "description": "Endear yourself to your friends, family, and coworkers.",
+  "manifest_version": 3,
+  "author": "Alina Grafkina & Christopher Oakes",
+  "action": {
+    "default_title": "Gettin' to Work"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "script.js"
+  }
 }
